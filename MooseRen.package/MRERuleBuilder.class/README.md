@@ -1,0 +1,1 @@
+I fill Arki spec with rules

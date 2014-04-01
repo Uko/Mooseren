@@ -1,0 +1,14 @@
+{
+	"category" : "MooseRen",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 3/26/2014 17:33",
+	"instvars" : [
+		"spec" ],
+	"name" : "MRERuleBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
