@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 addSelfTo: aSpec
 
 	self new addSelfTo: aSpec

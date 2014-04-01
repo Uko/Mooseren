@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 addSelfTo: aSpec
 	aSpec
 		query: self title

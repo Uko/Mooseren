@@ -1,0 +1,14 @@
+{
+	"category" : "MooseRen-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 4/1/2014 16:31",
+	"instvars" : [
+		 ],
+	"name" : "MREExcessiveParametersRule",
+	"pools" : [
+		 ],
+	"super" : "MRERule",
+	"type" : "normal" }

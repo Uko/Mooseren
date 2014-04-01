@@ -1,3 +1,3 @@
 accessing
 query
-	^ #allMethods
+	^ #allClasses
