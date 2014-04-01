@@ -1,0 +1,14 @@
+{
+	"category" : "MooseRen-Rules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 4/1/2014 15:50",
+	"instvars" : [
+		 ],
+	"name" : "MREOverlongMethodRule",
+	"pools" : [
+		 ],
+	"super" : "MRERule",
+	"type" : "normal" }
