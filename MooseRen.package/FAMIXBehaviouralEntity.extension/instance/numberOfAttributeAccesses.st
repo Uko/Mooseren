@@ -1,4 +1,4 @@
-*Mooseren
+*Mooseren-Metrics
 numberOfAttributeAccesses
 	<MSEProperty: #numberOfAttributeAccesses type: #Number>
 	<derived>

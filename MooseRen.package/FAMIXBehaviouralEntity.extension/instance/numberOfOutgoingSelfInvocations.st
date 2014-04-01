@@ -1,4 +1,4 @@
-*Mooseren
+*Mooseren-Metrics
 numberOfOutgoingSelfInvocations
 	<MSEProperty: #numberOfOutgoingSelfInvocations type: #Number>
 	<derived>

@@ -1,4 +1,4 @@
-*Mooseren
+*Mooseren-Accessors
 outgoingSelfInvocations
 	<MSEProperty: #outgoingSelfInvocations type: #FAMIXInvocation> <multivalued> <derived>
 	<MSEComment: 'Outgoing invocations sent by this behaviour to self or super.'>

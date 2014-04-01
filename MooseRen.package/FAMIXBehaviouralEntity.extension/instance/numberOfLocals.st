@@ -1,4 +1,4 @@
-*Mooseren
+*Mooseren-Metrics
 numberOfLocals
 	<MSEProperty: #numberOfLocals type: #Number>
 	<MSEComment: 'The number of local variables in a method'>
