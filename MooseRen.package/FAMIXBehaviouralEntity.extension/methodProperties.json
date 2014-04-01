@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attributeAccesses" : "YuriyTymchuk 4/1/2014 12:04",
+		"numberOfAttributeAccesses" : "YuriyTymchuk 4/1/2014 12:05",
+		"numberOfOutgoingNonSelfInvocations" : "YuriyTymchuk 4/1/2014 11:51",
+		"numberOfOutgoingSelfInvocations" : "YuriyTymchuk 4/1/2014 11:50",
+		"outgoingNonSelfInvocations" : "YuriyTymchuk 4/1/2014 13:57",
+		"outgoingSelfInvocations" : "YuriyTymchuk 4/1/2014 14:01" } }
