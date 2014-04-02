@@ -1,5 +1,6 @@
 accessing
 validation
 	^ [ :each |
-		each incomingAccesses size +
-		each receivingInvocations size    > 0 ]
+		each belongsTo isAbstract or: [
+			each incomingAccesses size +
+			each receivingInvocations size   > 0 ] ]

@@ -1,1 +1,1 @@
-Parameters should be assesed or their methods should be invoked
+Parameters should be used in some way
