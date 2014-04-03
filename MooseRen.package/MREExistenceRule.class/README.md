@@ -1,0 +1,1 @@
+A rule checking is value returned by metric exists e.i. is > than 0

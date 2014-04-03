@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "YuriyTymchuk 4/1/2014 16:34",
+	"commentStamp" : "YuriyTymchuk 4/3/2014 10:35",
 	"instvars" : [
 		 ],
-	"name" : "MREUnaccessedAttributeRule",
+	"name" : "MREExistenceRule",
 	"pools" : [
 		 ],
-	"super" : "MREExistenceRule",
+	"super" : "MREGtRule",
 	"type" : "normal" }

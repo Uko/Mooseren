@@ -10,5 +10,5 @@
 	"name" : "MREFeatureEnvyMethodRule",
 	"pools" : [
 		 ],
-	"super" : "MRERule",
+	"super" : "MRELtRule",
 	"type" : "normal" }

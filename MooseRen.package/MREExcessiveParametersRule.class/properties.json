@@ -10,5 +10,5 @@
 	"name" : "MREExcessiveParametersRule",
 	"pools" : [
 		 ],
-	"super" : "MRERule",
+	"super" : "MRELtRule",
 	"type" : "normal" }

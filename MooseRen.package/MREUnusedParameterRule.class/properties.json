@@ -10,5 +10,5 @@
 	"name" : "MREUnusedParameterRule",
 	"pools" : [
 		 ],
-	"super" : "MRERule",
+	"super" : "MREExistenceRule",
 	"type" : "normal" }

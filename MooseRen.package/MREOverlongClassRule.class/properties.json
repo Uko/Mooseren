@@ -10,5 +10,5 @@
 	"name" : "MREOverlongClassRule",
 	"pools" : [
 		 ],
-	"super" : "MRERule",
+	"super" : "MRELtRule",
 	"type" : "normal" }

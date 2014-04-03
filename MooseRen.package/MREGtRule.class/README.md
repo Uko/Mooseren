@@ -1,0 +1,1 @@
+rule whish says that a metrick should be greater than a threshold

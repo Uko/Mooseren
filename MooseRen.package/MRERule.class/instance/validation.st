@@ -1,3 +1,6 @@
 accessing
 validation
-	^ self shouldBeImplemented 
+	^ [ :each |
+		( self acceptance cull: each )
+		and:
+		[ self rule value: each ] ]
