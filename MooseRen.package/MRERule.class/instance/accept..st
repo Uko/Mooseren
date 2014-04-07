@@ -1,0 +1,3 @@
+accessing
+accept: anEntity
+	^ true

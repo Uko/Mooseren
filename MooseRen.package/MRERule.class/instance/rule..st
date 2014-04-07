@@ -1,3 +1,3 @@
 accessing
-rule
+rule: anEntity
 	^ self shouldBeImplemented 

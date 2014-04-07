@@ -1,3 +1,3 @@
 accessing
-metric
+metric: anEntity
 	^ self shouldBeImplemented 
