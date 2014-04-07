@@ -1,0 +1,1 @@
+I hold a report data for rule validation
