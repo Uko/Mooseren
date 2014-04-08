@@ -1,4 +1,4 @@
 accessing
 query: aModel
 
-	^ self shouldBeImplemented 
+	^ self subclassResponsibility  

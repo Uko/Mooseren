@@ -1,3 +1,3 @@
 accessing
 title
-	^ self shouldBeImplemented 
+	^ self subclassResponsibility 

@@ -1,3 +1,3 @@
 accessing
 rule: anEntity
-	^ self shouldBeImplemented 
+	^ self subclassResponsibility  

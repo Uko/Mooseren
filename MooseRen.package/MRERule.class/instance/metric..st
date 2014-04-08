@@ -1,3 +1,3 @@
 accessing
 metric: anEntity
-	^ self shouldBeImplemented 
+	^ self subclassResponsibility  

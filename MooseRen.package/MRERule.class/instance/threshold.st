@@ -1,3 +1,3 @@
 accessing
 threshold
-	^ self shouldBeImplemented 
+	^ self subclassResponsibility  

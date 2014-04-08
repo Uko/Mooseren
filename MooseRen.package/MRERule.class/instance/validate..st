@@ -1,5 +1,3 @@
 accessing
 validate: anEntity
-	^ ( self accept: anEntity )
-		and:
-	  [ self rule: anEntity ]
+	^ ( self accept: anEntity ) ==> [ self rule: anEntity ]
