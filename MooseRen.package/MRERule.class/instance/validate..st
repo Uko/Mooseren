@@ -1,3 +1,3 @@
-running
+accessing
 validate: anEntity
-	^ ( self accept: anEntity ) ==> [ self rule: anEntity ]
+	^ self subclassResponsibility  

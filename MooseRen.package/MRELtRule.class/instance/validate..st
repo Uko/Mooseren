@@ -1,3 +1,3 @@
 as yet unclassified
-rule: anEntity
+validate: anEntity
 	^ (self metric: anEntity) < self threshold
