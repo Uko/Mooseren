@@ -1,19 +1,17 @@
 {
 	"class" : {
-		"addSelfTo:" : "YuriyTymchuk 4/1/2014 15:53",
 		"annotation" : "YuriyTymchuk 4/9/2014 09:58" },
 	"instance" : {
 		"accept:" : "YuriyTymchuk 4/7/2014 13:35",
-		"addSelfTo:" : "YuriyTymchuk 4/7/2014 13:19",
 		"addViolator:" : "YuriyTymchuk 4/9/2014 09:34",
 		"description" : "YuriyTymchuk 4/8/2014 16:57",
 		"destroy" : "YuriyTymchuk 4/9/2014 10:52",
 		"initialize" : "YuriyTymchuk 4/9/2014 09:38",
 		"metric:" : "YuriyTymchuk 4/8/2014 16:57",
 		"name" : "YuriyTymchuk 4/9/2014 10:07",
-		"query:" : "YuriyTymchuk 4/8/2014 16:57",
 		"rule:" : "YuriyTymchuk 4/8/2014 16:57",
-		"run" : "YuriyTymchuk 4/9/2014 09:53",
+		"run" : "YuriyTymchuk 4/9/2014 11:38",
+		"subjects" : "YuriyTymchuk 4/9/2014 11:33",
 		"threshold" : "YuriyTymchuk 4/8/2014 16:57",
 		"title" : "YuriyTymchuk 4/8/2014 16:57",
 		"validate:" : "YuriyTymchuk 4/8/2014 16:44",

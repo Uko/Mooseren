@@ -1,4 +1,4 @@
-as yet unclassified
+running
 run
-	self violators: ((self query: self mooseModel) reject: [ :ent |
+	self violators: (self subjects reject: [ :ent |
 		self validate: ent ])
