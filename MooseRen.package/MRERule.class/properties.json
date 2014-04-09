@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "YuriyTymchuk 4/1/2014 14:52",
 	"instvars" : [
-		 ],
+		"violators" ],
 	"name" : "MRERule",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MooseEntity",
 	"type" : "normal" }
