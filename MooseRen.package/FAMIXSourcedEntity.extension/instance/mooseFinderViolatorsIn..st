@@ -1,4 +1,4 @@
-*MooseRen
+*Mooseren
 mooseFinderViolatorsIn: composite
 	<moosePresentationOrder: 1>
 	composite list

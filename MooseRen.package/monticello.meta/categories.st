@@ -1,3 +1,3 @@
-SystemOrganization addCategory: #MooseRen!
-SystemOrganization addCategory: 'MooseRen-Moose'!
-SystemOrganization addCategory: 'MooseRen-Rules'!
+SystemOrganization addCategory: #Mooseren!
+SystemOrganization addCategory: 'Mooseren-Moose'!
+SystemOrganization addCategory: 'Mooseren-Rules'!

@@ -1,4 +1,4 @@
-*MooseRen
+*Mooseren
 allRules
 
 	<navigation: 'All Rules'>

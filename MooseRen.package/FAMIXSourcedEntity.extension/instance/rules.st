@@ -1,4 +1,4 @@
-*MooseRen
+*Mooseren
 rules
 	<MSEProperty: #rules type: #MRERule opposite: #violators>	<multivalued>	<derived>
 	<MSEComment: 'Rules which are violated by this entity'>
