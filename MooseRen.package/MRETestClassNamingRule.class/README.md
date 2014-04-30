@@ -1,0 +1,1 @@
+Test classes should be named "*Test"

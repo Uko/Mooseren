@@ -1,0 +1,1 @@
+rule whish says that a metrick has to be positive (i.e. true)

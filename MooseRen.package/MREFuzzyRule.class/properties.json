@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "YuriyTymchuk 4/3/2014 10:22",
+	"commentStamp" : "YuriyTymchuk 4/29/2014 21:30",
 	"instvars" : [
 		 ],
-	"name" : "MREGtRule",
+	"name" : "MREFuzzyRule",
 	"pools" : [
 		 ],
-	"super" : "MREFuzzyRule",
+	"super" : "MRERule",
 	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Mooseren-OnMooseRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 4/28/2014 12:50",
+	"instvars" : [
+		 ],
+	"name" : "MREHardcodedViewRendererRule",
+	"pools" : [
+		 ],
+	"super" : "MREBooleanRule",
+	"type" : "normal" }

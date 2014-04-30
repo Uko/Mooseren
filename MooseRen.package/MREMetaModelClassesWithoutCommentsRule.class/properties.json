@@ -1,0 +1,14 @@
+{
+	"category" : "Mooseren-OnMooseRules",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 4/29/2014 21:36",
+	"instvars" : [
+		 ],
+	"name" : "MREMetaModelClassesWithoutCommentsRule",
+	"pools" : [
+		 ],
+	"super" : "MREBooleanRule",
+	"type" : "normal" }

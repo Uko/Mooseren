@@ -10,5 +10,5 @@
 	"name" : "MRELtRule",
 	"pools" : [
 		 ],
-	"super" : "MRERule",
+	"super" : "MREFuzzyRule",
 	"type" : "normal" }
