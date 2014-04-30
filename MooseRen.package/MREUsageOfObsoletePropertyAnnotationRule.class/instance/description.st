@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 description
 	^ 'All <property: ... > pragmas should be replaced with <MSEProperty: ...> ones.
 	

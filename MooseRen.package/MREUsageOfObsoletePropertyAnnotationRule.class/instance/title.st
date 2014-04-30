@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 title
 	^ 'Use of obsolete <property:...> pragmas'

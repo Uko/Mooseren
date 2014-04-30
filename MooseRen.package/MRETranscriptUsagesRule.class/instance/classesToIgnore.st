@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 classesToIgnore
 	self flag: 'Maybe this has to be customizable'.
 	^ #(#OSProcess

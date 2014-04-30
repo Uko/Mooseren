@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 accept: anEntity
 	^ anEntity parentType isStub not and: [
 		self classesToIgnore noneSatisfy: [ :toIgnore | 

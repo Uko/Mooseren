@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 subjects
 	^ ((self mooseModel allAnnotationTypes entityNamed: 'MSEProperty:type:')
 		ifNil: [ #() ]

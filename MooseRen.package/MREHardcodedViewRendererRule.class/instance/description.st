@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 description
 	^ 'MOViewRenderer should not be instantiated in the same method where the visualization is defined. The pattern should be along the following lines:
 	

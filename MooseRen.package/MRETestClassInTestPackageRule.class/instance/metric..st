@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 metric: anEntity
 	^ '*-Tests*' match: anEntity parentPackage name

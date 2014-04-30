@@ -1,4 +1,4 @@
-as yet unclassified
+helper
 obsoletePragmaNames
 	self flag: 'Maybe this has to be customizable'.
 	^ #(

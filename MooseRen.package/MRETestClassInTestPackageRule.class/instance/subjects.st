@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 subjects
 	^ (self mooseModel allClasses entityNamed: TestCase mooseName) subclassHierarchyGroup
